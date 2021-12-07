@@ -1,9 +1,3 @@
-package com.company;
-
-public class Main {
-
-    public static void main(String[] args) {
-    }
     class NameEncoderDecoder {
         public String encode(String name) {
             return "NOTFORYOU" + name
